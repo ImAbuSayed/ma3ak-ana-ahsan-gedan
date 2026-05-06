@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-ana-ahsan-gedan/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Ma3ak Ana Ahsan Gedan](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
