@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma3ak Ana Ahsan Gedan
+
+This log tracks the cryptographic history and versioning for the song **Ma3ak Ana Ahsan Gedan** (ma3ak-ana-ahsan-gedan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:43:46.864313 | `v1` | `c8f8d4a25952712d320dac507062f25b975a34691ff138f7a169b9c57042e660` | `dc40ae0b1a4c13229e12b457db7534f0853d6a30f3bec9bb30b957095abbe6d6` | `2026-05-09_ma3ak-ana-ahsan-gedan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
